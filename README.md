@@ -1,1 +1,1 @@
-# MATH_441_project_3
+# MATH 441 Project 3: Convex Optimization
